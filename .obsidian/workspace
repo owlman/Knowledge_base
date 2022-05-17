@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "6f1bd6bc050c5ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecf99ce38200abc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识索引.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b60a4bc59dd56e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9ce03f58a57294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ef159de9dc3dec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a9d9520578bd308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "266de621287b0771",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86b1ca1a240c4f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baad96c2c69da43d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "967bd75d58509bb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446
+  },
+  "active": "cecf99ce38200abc",
+  "lastOpenFiles": [
+    "知识索引.md",
+    "职场人生/README.md",
+    "职场人生/与台湾人交流的一些经验.md",
+    "索引.md",
+    "政治思考/左派与右派.md",
+    "政治思考/言论自由与胡说八道.md",
+    "政治思考/现代国家需尊重宪法.md",
+    "政治思考/如果我是台独.md",
+    "政治思考/如果我是共产党会如何面对台湾.md",
+    "政治思考/论两岸之政别.md"
+  ]
+}
