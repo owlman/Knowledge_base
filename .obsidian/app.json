@@ -1,4 +1,9 @@
 {
+  "showLineNumber": true,
   "readableLineLength": false,
-  "promptDelete": false
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./img",
+  "showFrontmatter": true
 }

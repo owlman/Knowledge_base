@@ -1,5 +1,9 @@
 {
-  "baseFontSize": 20,
-  "theme": "moonstone",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "baseFontSize": 18,
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "GitHub Theme"
 }

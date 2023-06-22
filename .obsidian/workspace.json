@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6f1bd6bc050c5ba0",
+    "id": "2f226859645121e8",
     "type": "split",
     "children": [
       {
-        "id": "14636d6e79ed9251",
+        "id": "522bafdbb6c6106b",
         "type": "tabs",
         "children": [
           {
-            "id": "29687ebffbc5b9b1",
+            "id": "c356de0fef53ebdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9b60a4bc59dd56e5",
+    "id": "1ba82f4b83276f03",
     "type": "split",
     "children": [
       {
-        "id": "9c9ce03f58a57294",
+        "id": "321b44a6b0ac62f6",
         "type": "tabs",
         "children": [
           {
-            "id": "16ef159de9dc3dec",
+            "id": "cceac6dc3fd2184e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,18 +43,26 @@
             }
           },
           {
-            "id": "7a9d9520578bd308",
+            "id": "7203f7df905a8d35",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://www.youtube.com/watch?v=KGv0M367Mrg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "5d4a2a0b419c6481",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -64,20 +72,30 @@
     "width": 300
   },
   "right": {
-    "id": "266de621287b0771",
+    "id": "074f18afc9fcf2ba",
     "type": "split",
     "children": [
       {
-        "id": "a86b1ca1a240c4f9",
+        "id": "424a1e8755bd9b40",
         "type": "tabs",
         "children": [
           {
-            "id": "baad96c2c69da43d",
+            "id": "b29c2d732007cebf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md"
+              }
+            }
+          },
+          {
+            "id": "21bcc0f2b79765f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +107,19 @@
             }
           },
           {
-            "id": "967bd75d58509bb4",
+            "id": "9cf73d6e1599bf36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "886a9a67658499ad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -103,28 +133,46 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "29687ebffbc5b9b1",
+  "active": "c356de0fef53ebdb",
   "lastOpenFiles": [
-    "工作感悟/人民邮电异步社区采访.md",
+    "Programming/LanguageStudy/Rust/QuickStart/img/cargo_build.png",
+    "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
+    "00_ToBeOrganized/01_ToDoList.md",
+    "Programming/GUI_Dev/RouteMap/关于图形界面编程及其书籍推荐.md",
     "README.md",
-    "历史研究/《被淹没和被拯救的》：真正的体制杀人.md",
-    "知识索引.md",
-    "职场人生/README.md",
-    "职场人生/与台湾人交流的一些经验.md",
-    "索引.md",
-    "政治思考/左派与右派.md",
-    "政治思考/言论自由与胡说八道.md",
-    "政治思考/现代国家需尊重宪法.md"
+    "Programming/LanguageStudy/Python/QuickStart/Python 学习笔记：基础篇.md",
+    "OperatingSystem/Windows/ShellTool/Cygwin 研究笔记.md",
+    "SoftwareTool/VirtualMachine/VirtualBox/VirtualBox 研究笔记.md",
+    "SoftwareEngineering/OpenSource/开源许可协议研究.md",
+    "Programming/AutomatedTest/TestCases/基于自动化技术的测试用例设计.md",
+    "OperatingSystem/Windows/ShellTool/PowerShell 研究笔记.md",
+    "OperatingSystem/UNIX-like/ShellTool/zsh/Zsh 研究笔记.md",
+    "OperatingSystem/UNIX-like/ShellTool/fish/Fish 研究笔记.md",
+    "OperatingSystem/UNIX-like/ShellTool/bash/Bash 研究笔记.md",
+    "Programming/Methodology/RouteMap/关于编程方法论及其推荐书目.md",
+    "SoftwareEngineering/RouteMap/关于软件工程及其书籍推荐.md",
+    "Programming/Algorithms/RouteMap/关于计算机算法及其书籍推荐.md",
+    "Questions&Answers/人工智能的可怕与不可怕.md",
+    "ArtificialIntelligence/RouteMap/关于人工智能的研究及其书籍推荐.md",
+    "SoftwareTool/DevelopmentTool/Vim 学习笔记.md",
+    "SoftwareTool/DevelopmentTool/NeoVim 学习笔记.md",
+    "SoftwareTool/DevelopmentTool/Makefile 简易教程.md",
+    "SoftwareTool/DevelopmentTool/Clang 学习笔记.md",
+    "SoftwareTool/VirtualMachine/vagrant/Vagrant 学习笔记.md",
+    "SoftwareTool/VCS/Git/Git 学习笔记.md",
+    "SoftwareTool/VCS/GitHub/notes.md"
   ]
 }
