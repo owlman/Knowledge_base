@@ -2,9 +2,10 @@
   "file-explorer:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "Numpad1"
+      "key": "P"
     }
   ],
   "editor:focus": [
@@ -12,7 +13,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad0"
+      "key": "End"
     }
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "522bafdbb6c6106b",
+        "id": "c5c9e19dd17fddf3",
         "type": "tabs",
         "children": [
           {
-            "id": "c356de0fef53ebdb",
+            "id": "940035133611eb99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "086d9eda2deeaab7",
+            "id": "5ec1fd716d5b1a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "古籍研读/《论语》习修笔记/书籍原文.md",
+                "file": "古籍研读/《论语》习修笔记/参考资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,10 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c356de0fef53ebdb",
+  "active": "940035133611eb99",
   "lastOpenFiles": [
-    "古籍研读/《论语》习修笔记/书籍原文.md",
+    "古籍研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "古籍研读/《论语》习修笔记/《论语》：习修笔记-序.md",
+    "古籍研读/《论语》习修笔记/参考资料.md",
+    "古籍研读/《论语》习修笔记/《论语》：习修笔记-八佾篇.md",
+    "古籍研读/《论语》习修笔记/《论语》：习修笔记-为政篇.md",
     "README.md",
     "古籍研读/《论语》习修笔记",
     "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
@@ -185,9 +188,6 @@
     "Questions&Answers/人工智能的可怕与不可怕.md",
     "ArtificialIntelligence/RouteMap/关于人工智能的研究及其书籍推荐.md",
     "SoftwareTool/DevelopmentTool/Vim 学习笔记.md",
-    "SoftwareTool/DevelopmentTool/NeoVim 学习笔记.md",
-    "SoftwareTool/DevelopmentTool/Makefile 简易教程.md",
-    "SoftwareTool/DevelopmentTool/Clang 学习笔记.md",
-    "SoftwareTool/VirtualMachine/vagrant/Vagrant 学习笔记.md"
+    "SoftwareTool/DevelopmentTool/NeoVim 学习笔记.md"
   ]
 }
