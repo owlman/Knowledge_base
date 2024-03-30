@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "32768ee7e60dfd78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经典研读/《孙子兵法》：战略的艺术.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5ec1fd716d5b1a50",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "经典研读/《孙子兵法》：战略的艺术.md"
               }
             }
           },
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "经典研读/《孙子兵法》：战略的艺术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "经典研读/《孙子兵法》：战略的艺术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +172,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cceac6dc3fd2184e",
+  "active": "32768ee7e60dfd78",
   "lastOpenFiles": [
-    "历史研究/《昨日的世界》：我们的世界又将如何？.md",
     "README.md",
+    "历史研究/《昨日的世界》：我们的世界又将如何？.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-序.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "经典研读/《论语》习修笔记/参考资料.md",
