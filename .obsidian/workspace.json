@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32768ee7e60dfd78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "经典研读/《孙子兵法》：战略的艺术.md",
+                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经典研读/《孙子兵法》：战略的艺术.md"
+                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md"
               }
             }
           },
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经典研读/《孙子兵法》：战略的艺术.md",
+                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经典研读/《孙子兵法》：战略的艺术.md",
+                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,13 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "32768ee7e60dfd78",
+  "active": "940035133611eb99",
   "lastOpenFiles": [
+    "经典研读/《论语》习修笔记/参考资料.md",
+    "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "README.md",
+    "经典研读/《孙子兵法》：战略的艺术.md",
     "历史研究/《昨日的世界》：我们的世界又将如何？.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-序.md",
-    "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
-    "经典研读/《论语》习修笔记/参考资料.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-八佾篇.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-为政篇.md",
     "经典研读/《论语》习修笔记",
@@ -200,7 +188,6 @@
     "SoftwareEngineering/RouteMap/关于软件工程及其书籍推荐.md",
     "Programming/Algorithms/RouteMap/关于计算机算法及其书籍推荐.md",
     "Questions&Answers/人工智能的可怕与不可怕.md",
-    "ArtificialIntelligence/RouteMap/关于人工智能的研究及其书籍推荐.md",
-    "SoftwareTool/DevelopmentTool/Vim 学习笔记.md"
+    "ArtificialIntelligence/RouteMap/关于人工智能的研究及其书籍推荐.md"
   ]
 }
