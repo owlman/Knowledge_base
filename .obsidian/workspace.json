@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c9e19dd17fddf3",
+        "id": "943cd5dfe2314078",
         "type": "tabs",
         "children": [
           {
-            "id": "940035133611eb99",
+            "id": "0afc93edcfbbaef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
+                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ec1fd716d5b1a50",
+            "id": "95752f0c81b3078e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经典研读/《论语》习修笔记/参考资料.md",
+                "file": "思想习修/《论语》习修笔记/原文资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md"
+                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
+                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
+                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,13 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "940035133611eb99",
+  "active": "0afc93edcfbbaef2",
   "lastOpenFiles": [
+    "思想习修/《论语》习修笔记/原文资料.md",
+    "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
+    "README.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-序.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "经典研读/《论语》习修笔记/~$语》：习修笔记-序.md",
     "经典研读/《论语》习修笔记/参考资料.md",
-    "README.md",
     "经典研读/《孙子兵法》：战略的艺术.md",
     "历史研究/《昨日的世界》：我们的世界又将如何？.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-八佾篇.md",
@@ -186,8 +188,6 @@
     "OperatingSystem/UNIX-like/ShellTool/fish/Fish 研究笔记.md",
     "OperatingSystem/UNIX-like/ShellTool/bash/Bash 研究笔记.md",
     "Programming/Methodology/RouteMap/关于编程方法论及其推荐书目.md",
-    "SoftwareEngineering/RouteMap/关于软件工程及其书籍推荐.md",
-    "Programming/Algorithms/RouteMap/关于计算机算法及其书籍推荐.md",
-    "Questions&Answers/人工智能的可怕与不可怕.md"
+    "SoftwareEngineering/RouteMap/关于软件工程及其书籍推荐.md"
   ]
 }
