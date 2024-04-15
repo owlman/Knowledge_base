@@ -11,12 +11,8 @@
             "id": "0afc93edcfbbaef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
