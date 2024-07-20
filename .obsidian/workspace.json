@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
+                "file": "时事评论/关于2017年的中印边境对峙.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时事评论/关于发生在马里兰大学的那场演讲.md"
+                "file": "时事评论/关于2017年的中印边境对峙.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
+                "file": "时事评论/关于2017年的中印边境对峙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
+                "file": "时事评论/关于2017年的中印边境对峙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,7 @@
   },
   "active": "95752f0c81b3078e",
   "lastOpenFiles": [
+    "时事评论/关于发生在马里兰大学的那场演讲.md",
     "时事评论/公知们眼中的外国.md",
     "时事评论/孟晚舟引渡案.md",
     "时事评论/关于996工作制.md",
@@ -188,7 +189,6 @@
     "Programming/LanguageStudy/Python/QuickStart/Python 学习笔记：基础篇.md",
     "OperatingSystem/Windows/ShellTool/Cygwin 研究笔记.md",
     "SoftwareTool/VirtualMachine/VirtualBox/VirtualBox 研究笔记.md",
-    "SoftwareEngineering/OpenSource/开源许可协议研究.md",
-    "Programming/AutomatedTest/TestCases/基于自动化技术的测试用例设计.md"
+    "SoftwareEngineering/OpenSource/开源许可协议研究.md"
   ]
 }
