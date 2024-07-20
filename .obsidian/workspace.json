@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思想习修/《论语》习修笔记/原文资料.md",
+                "file": "时事评论/关于996工作制.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "时事评论/关于996工作制.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "时事评论/关于996工作制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "时事评论/关于996工作制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,13 +160,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0afc93edcfbbaef2",
+  "active": "95752f0c81b3078e",
   "lastOpenFiles": [
-    "时事评论/2024-姜萍-阿里巴巴数学竞赛事件.md",
     "思想习修/《论语》习修笔记/原文资料.md",
+    "README.md",
+    "时事评论/2024-姜萍-阿里巴巴数学竞赛事件.md",
     "思想习修/《论语》习修笔记/01_学而篇.md",
     "思想习修/《论语》习修笔记/00_学儒志序.md",
-    "README.md",
     "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-序.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
