@@ -11,8 +11,12 @@
             "id": "0afc93edcfbbaef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,21 +149,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0afc93edcfbbaef2",
   "lastOpenFiles": [
+    "时事评论/2024-姜萍-阿里巴巴数学竞赛事件.md",
     "思想习修/《论语》习修笔记/原文资料.md",
-    "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
+    "思想习修/《论语》习修笔记/01_学而篇.md",
+    "思想习修/《论语》习修笔记/00_学儒志序.md",
     "README.md",
+    "思想习修/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-序.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-学而篇.md",
     "经典研读/《论语》习修笔记/~$语》：习修笔记-序.md",
@@ -177,9 +188,6 @@
     "Programming/AutomatedTest/TestCases/基于自动化技术的测试用例设计.md",
     "OperatingSystem/Windows/ShellTool/PowerShell 研究笔记.md",
     "OperatingSystem/UNIX-like/ShellTool/zsh/Zsh 研究笔记.md",
-    "OperatingSystem/UNIX-like/ShellTool/fish/Fish 研究笔记.md",
-    "OperatingSystem/UNIX-like/ShellTool/bash/Bash 研究笔记.md",
-    "Programming/Methodology/RouteMap/关于编程方法论及其推荐书目.md",
-    "SoftwareEngineering/RouteMap/关于软件工程及其书籍推荐.md"
+    "OperatingSystem/UNIX-like/ShellTool/fish/Fish 研究笔记.md"
   ]
 }
