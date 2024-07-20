@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时事评论/孟晚舟引渡案.md",
+                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时事评论/孟晚舟引渡案.md"
+                "file": "时事评论/关于发生在马里兰大学的那场演讲.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时事评论/孟晚舟引渡案.md",
+                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时事评论/孟晚舟引渡案.md",
+                "file": "时事评论/关于发生在马里兰大学的那场演讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +162,8 @@
   },
   "active": "95752f0c81b3078e",
   "lastOpenFiles": [
+    "时事评论/公知们眼中的外国.md",
+    "时事评论/孟晚舟引渡案.md",
     "时事评论/关于996工作制.md",
     "思想习修/《论语》习修笔记/原文资料.md",
     "README.md",
@@ -187,8 +189,6 @@
     "OperatingSystem/Windows/ShellTool/Cygwin 研究笔记.md",
     "SoftwareTool/VirtualMachine/VirtualBox/VirtualBox 研究笔记.md",
     "SoftwareEngineering/OpenSource/开源许可协议研究.md",
-    "Programming/AutomatedTest/TestCases/基于自动化技术的测试用例设计.md",
-    "OperatingSystem/Windows/ShellTool/PowerShell 研究笔记.md",
-    "OperatingSystem/UNIX-like/ShellTool/zsh/Zsh 研究笔记.md"
+    "Programming/AutomatedTest/TestCases/基于自动化技术的测试用例设计.md"
   ]
 }
