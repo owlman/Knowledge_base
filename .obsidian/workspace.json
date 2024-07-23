@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "95752f0c81b3078e",
+            "id": "200db7154cd8a2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时事评论/关于2017年的中印边境对峙.md",
+                "file": "政治思考/公知们眼中的外国.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时事评论/关于2017年的中印边境对峙.md"
+                "file": "政治思考/公知们眼中的外国.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "时事评论/关于2017年的中印边境对峙.md",
+                "file": "政治思考/公知们眼中的外国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "时事评论/关于2017年的中印边境对峙.md",
+                "file": "政治思考/公知们眼中的外国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,14 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95752f0c81b3078e",
+  "active": "200db7154cd8a2b0",
   "lastOpenFiles": [
+    "README.md",
+    "政治思考/公知们眼中的外国.md",
+    "时事评论/关于孟晚舟引渡案.md",
+    "时事评论/清朗行动与假女权.md",
+    "时事评论/关于2017年的中印边境对峙.md",
     "时事评论/关于发生在马里兰大学的那场演讲.md",
-    "时事评论/公知们眼中的外国.md",
-    "时事评论/孟晚舟引渡案.md",
     "时事评论/关于996工作制.md",
     "思想习修/《论语》习修笔记/原文资料.md",
-    "README.md",
     "时事评论/2024-姜萍-阿里巴巴数学竞赛事件.md",
     "思想习修/《论语》习修笔记/01_学而篇.md",
     "思想习修/《论语》习修笔记/00_学儒志序.md",
@@ -187,8 +189,6 @@
     "00_ToBeOrganized/01_ToDoList.md",
     "Programming/GUI_Dev/RouteMap/关于图形界面编程及其书籍推荐.md",
     "Programming/LanguageStudy/Python/QuickStart/Python 学习笔记：基础篇.md",
-    "OperatingSystem/Windows/ShellTool/Cygwin 研究笔记.md",
-    "SoftwareTool/VirtualMachine/VirtualBox/VirtualBox 研究笔记.md",
-    "SoftwareEngineering/OpenSource/开源许可协议研究.md"
+    "OperatingSystem/Windows/ShellTool/Cygwin 研究笔记.md"
   ]
 }
