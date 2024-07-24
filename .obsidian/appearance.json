@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "system",
   "baseFontSize": 18,
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false,
   "cssTheme": "GitHub Theme"
