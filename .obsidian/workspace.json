@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思想习修/《论语》习修笔记/论语原文.md"
+                "file": "思想习修/《论语》习修笔记/01_学而篇.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思想习修/《论语》习修笔记/论语原文.md",
+                "file": "思想习修/《论语》习修笔记/01_学而篇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思想习修/《论语》习修笔记/论语原文.md",
+                "file": "思想习修/《论语》习修笔记/01_学而篇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83bb613ae3eefed7",
+  "active": "cceac6dc3fd2184e",
   "lastOpenFiles": [
+    "思想习修/《论语》习修笔记/论语原文.md",
     "思想习修/《论语》习修笔记/00_学儒志序.md",
     "思想习修/《论语》习修笔记/04_里仁篇.md",
     "思想习修/《论语》习修笔记/03_八佾篇.md",
@@ -168,7 +170,6 @@
     "时事评论/2024年姜萍-阿里巴巴数学竞赛事件.md",
     "README.md",
     "时事评论/2018年崔永元曝光娱乐圈阴阳合同事件.md",
-    "思想习修/《论语》习修笔记/论语原文.md",
     "时事评论/关于2017年在马里兰大学的那场演讲.md",
     "时事评论/关于2021年的清朗行动以及互联网上的假女权.md",
     "生活感悟/关于如何看清一个人.md",
