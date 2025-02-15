@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bb613ae3eefed7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
             "id": "7ae4c9a1cd93180c",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -104,7 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "README 的大纲"
@@ -176,8 +169,10 @@
   },
   "active": "7ae4c9a1cd93180c",
   "lastOpenFiles": [
-    "政治思考/维护环境并不是道德绑架.md",
     "README.md",
+    "影视评论/2017年关于《晓松奇谈》的收官.md",
+    "政治思考/README.md",
+    "政治思考/维护环境并不是道德绑架.md",
     "思想习修/《论语》习修笔记/论语原文.md",
     "思想习修/《论语》习修笔记/00_学儒志序.md",
     "思想习修/《论语》习修笔记/04_里仁篇.md",
@@ -200,9 +195,7 @@
     "经典研读/《孙子兵法》：战略的艺术.md",
     "历史研究/《昨日的世界》：我们的世界又将如何？.md",
     "经典研读/《论语》习修笔记/《论语》：习修笔记-八佾篇.md",
-    "经典研读/《论语》习修笔记/《论语》：习修笔记-为政篇.md",
     "经典研读/《论语》习修笔记",
-    "Programming/LanguageStudy/Rust/QuickStart/Rust 学习笔记：基础篇.md",
     "Programming/LanguageStudy/Rust/QuickStart/img/cargo_build.png"
   ]
 }
