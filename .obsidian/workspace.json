@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "8752f7ca91e6a8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "时事评论/来自巴萨罗那的讽刺.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "来自巴萨罗那的讽刺"
-            }
-          },
-          {
             "id": "2236444d1a917428",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "对台湾劳基法的评论"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "时事评论/来自巴萨罗那的讽刺.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "来自巴萨罗那的讽刺 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -186,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -196,9 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8752f7ca91e6a8c2",
+  "active": "5dd842b14a56e128",
   "lastOpenFiles": [
+    "时事评论/关于2018年崔永元曝光娱乐圈阴阳合同事件.md",
     "README.md",
+    "时事评论/关于2024年姜萍-阿里巴巴数学竞赛事件.md",
     "时事评论/关于996工作制.md",
     "时事评论/关于2025年DeepSeek在2025年的异军突起.md",
     "时事评论/对台湾劳基法的评论.md",
@@ -218,8 +206,6 @@
     "思想习修/《论语》习修笔记/04_里仁篇.md",
     "思想习修/《论语》习修笔记/03_八佾篇.md",
     "思想习修/《论语》习修笔记/01_学而篇.md",
-    "时事评论/2024年姜萍-阿里巴巴数学竞赛事件.md",
-    "时事评论/2018年崔永元曝光娱乐圈阴阳合同事件.md",
     "时事评论/关于2017年在马里兰大学的那场演讲.md",
     "生活感悟/关于如何看清一个人.md",
     "政治思考/公知们眼中的外国.md",
