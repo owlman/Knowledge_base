@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "关于2025年中国授时系统被攻击的事件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "关于2025年中国授时系统被攻击的事件"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "关于2025年中国授时系统被攻击的事件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "关于2025年中国授时系统被攻击的事件 的大纲"
             }
           },
           {
@@ -170,6 +170,8 @@
   },
   "active": "5dd842b14a56e128",
   "lastOpenFiles": [
+    "README.md",
+    "关于2025年中国授时系统被攻击的事件.md",
     "话题与观点/闲聊几句技术宅的网络生活.md",
     "话题与观点/论两岸之政别.md",
     "话题与观点/言论自由与胡说八道.md",
@@ -194,8 +196,6 @@
     "话题与观点/关于2025年DeepSeek在2025年的异军突起.md",
     "话题与观点/关于2024年姜萍-阿里巴巴数学竞赛事件.md",
     "话题与观点/关于2022年美国芯片法案与台积电的问题.md",
-    "话题与观点/关于2018年的孟晚舟引渡案.md",
-    "话题与观点/令人深思的流量密码.md",
     "话题与观点",
     "书评与影评/img/mofa.jpg",
     "书评与影评/img/heike.jpg",
