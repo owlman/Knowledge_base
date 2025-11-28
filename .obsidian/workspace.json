@@ -11,14 +11,10 @@
             "id": "9b86d1656465f753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_随笔记录/日记归档/2025/10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_随笔记录/日记归档/2025/10.md",
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -168,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b86d1656465f753",
+  "active": "cceac6dc3fd2184e",
   "lastOpenFiles": [
+    "未命名.base",
     "README.md",
     "关于2025年中国授时系统被攻击的事件.md",
     "话题与观点/闲聊几句技术宅的网络生活.md",
@@ -195,7 +192,6 @@
     "话题与观点/关于2021年清朗行动中的假女权.md",
     "话题与观点/关于2025年DeepSeek在2025年的异军突起.md",
     "话题与观点/关于2024年姜萍-阿里巴巴数学竞赛事件.md",
-    "话题与观点/关于2022年美国芯片法案与台积电的问题.md",
     "话题与观点",
     "书评与影评/img/mofa.jpg",
     "书评与影评/img/heike.jpg",
